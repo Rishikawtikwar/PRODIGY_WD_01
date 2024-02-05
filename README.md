@@ -1,2 +1,2 @@
 # PRODIGY_WD_01
-Landing Page
+Task 1 RCB(Royal Challengers Bangalore) responsive landing page.
